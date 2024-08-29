@@ -1,5 +1,3 @@
-Here's a sample `README.md` file for your project based on the provided dependencies:
-
 ---
 
 # ais -(https://bighnesh-kktv1x52v-varsshiths-projects.vercel.app/)  
