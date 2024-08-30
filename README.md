@@ -124,18 +124,22 @@ Data visualization is handled using `chart.js`, `react-chartjs-2`, and `recharts
 
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
-
-![image](https://github.com/user-attachments/assets/d6290f58-1d49-4136-ada0-562a7885ef9d)
-<br> 
 ![image](https://github.com/user-attachments/assets/10ef1e49-22df-488d-abb9-1fb106459b49)
 <br>
+
 ![image](https://github.com/user-attachments/assets/8a02f323-ef64-4507-bd00-1a2a5778926d)
 <br>
+
 ![image](https://github.com/user-attachments/assets/73c8d43a-6a44-4351-b8e5-21f13d19d838)
 <br>
+
 ![image](https://github.com/user-attachments/assets/8a15ba5f-223d-4852-bab0-fde658962b70)
+
 ![image](https://github.com/user-attachments/assets/c5b2c10e-b9bf-4116-ad95-60829f051506)
+
 ![image](https://github.com/user-attachments/assets/8873fea0-5f71-4533-a56e-8064f446217c)
+
 ![image](https://github.com/user-attachments/assets/be27e20e-0ab2-4024-9a74-9b7f644d4942)
+
 ![image](https://github.com/user-attachments/assets/a1cc8e9b-3567-4638-a103-29ba11a499fc)
 
