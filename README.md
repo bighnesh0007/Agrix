@@ -1,7 +1,7 @@
 ---
 ![image](https://github.com/user-attachments/assets/7624f56d-1e29-4040-a7bf-5acbc32ca0a2)
 
-# ais -(https://bighnesh-kktv1x52v-varsshiths-projects.vercel.app/)  
+# AIS -(https://bighnesh-kktv1x52v-varsshiths-projects.vercel.app/)  
 
 This project is a web application built using Next.js with various tools and libraries to enhance the UI/UX, handle forms, manage API calls, and more.
 
@@ -126,6 +126,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ---
 ![image](https://github.com/user-attachments/assets/d6290f58-1d49-4136-ada0-562a7885ef9d)
+<br> 
 ![image](https://github.com/user-attachments/assets/10ef1e49-22df-488d-abb9-1fb106459b49)
 
 ![image](https://github.com/user-attachments/assets/8a02f323-ef64-4507-bd00-1a2a5778926d)
